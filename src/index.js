@@ -1,3 +1,9 @@
+//
+// PATH OF THIS FILE: ./src/index.js
+//
+import style from "./main.css";
+
+
 console.log(`I'm a silly entry point`);
 const arr = [1, 2, 3];
 const iAmJavascriptES6 = () => console.log(...arr);
